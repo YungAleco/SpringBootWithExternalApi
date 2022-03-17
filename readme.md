@@ -7,5 +7,6 @@ Only one endpoint is enabled.
 
 
 
-Ejemplo de aplicacion en Spring, el código es mínimo y he trabajo con aplicaciones mucho mayores.
+
+Ejemplo de aplicacion en Spring, el código es mínimo pero he trabajo con aplicaciones mucho mayores.
 La aplicación supone que hay otro servicio externo que le provee los datos
